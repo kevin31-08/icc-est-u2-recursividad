@@ -2,6 +2,11 @@
 - **Nombre:** kevin sacaquirin
 - **Fecha:** 15 de junio de 2026
 
+- ## Recursividad: 
+
+La recursividad se refiere a un concepto de autoreferencia, donde una entidad se define en términos de sí misma. En programación, una función recursiva es aquella que se invoca a sí misma hasta cumplir una condición de terminación, conocida como caso base, que evita que la recursión sea infinita
++1 .En matemáticas, se aplica en secuencias o estructuras que dependen de valores anteriores, como la sucesión de Fibonacci, donde cada número se calcula sumando los dos anteriores .
+
 - ## Descripcion :
  
 En este rpograma aplicamos la recursividad , en un programa que nos indica cuantas veces se llama la funcion a si mismo , lo cual en ello provamos distintas logicas : 
