@@ -1,7 +1,10 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("suma consecutiva del 5 ");
+
+
+       
         int res = runEjercicio1(5);
+        System.out.print("suma consecutiva del 5 ");
         System.out.println("es: "+res);
 
         System.out.println("Ejercicio 2");

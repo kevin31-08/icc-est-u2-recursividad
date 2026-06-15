@@ -14,3 +14,8 @@ En este rpograma aplicamos la recursividad , en un programa que nos indica cuant
 
 - En el ejercicio 2 -realizamos un programa que calcule la potencia de un numero base elevada a un exponenete entero ejemplo: si la base es 2 y exponente es 3 , la funcion debe devolver 2 elevada a 3 = 8
 
+![alt text](image.png)
+
+
+- Salidas: 
+![alt text](image-1.png)
